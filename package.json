@@ -1,0 +1,21 @@
+{
+  "name": "connect-redis-multiple",
+  "version": "0.0.1",
+  "description": "connect multiple redis",
+  "main": "index.js",
+  "repository": "https://github.com/PengXing/connect-redis-multiple",
+  "keywords": [
+    "connect",
+    "redis",
+    "connect-redis",
+    "connect-multiple-redis"
+  ],
+  "author": [
+    "sekiyika"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "connect-redis": "^2.1.0",
+    "debug": "^2.1.1"
+  }
+}
