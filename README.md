@@ -1,6 +1,6 @@
 # connect-redis-multiple
 
-`connect-redis-multiple` is a distributed Redis supported session store backed by [connect-redis](https://github.com/tj/connect-redis). Requires redis >= `2.0.0` for the _SETEX_ command.
+`connect-redis-multiple` is a __distributed Redis supported__ session store backed by [connect-redis](https://github.com/tj/connect-redis).
 
 ## Installation
 
